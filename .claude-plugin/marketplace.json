@@ -13,7 +13,7 @@
         "repo": "yashverma2110/maxlearn"
       },
       "description": "Study companion: lessons and flashcards from your chats and interests, scheduled with FSRS or SM-2 spaced repetition",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "author": { "name": "Yash Verma", "url": "https://github.com/yashverma2110" },
       "homepage": "https://github.com/yashverma2110/maxlearn#readme",
       "license": "MIT",
